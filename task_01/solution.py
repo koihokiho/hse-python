@@ -10,7 +10,7 @@ def get_variables():
     float_number = None
 
     # Строка
-    string_value = None
+    string_value = "N"
 
     # Логическое значение (истина)
     boolean_true = None
